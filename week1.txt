@@ -1,1 +1,1 @@
-Create file week1.txt thu?c branch: week1 
+file week1.txt thuoc branch week1, main 
