@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+file week3.txt thuoc branch week3  m…  th“i 
+=======
 file week3.txt thuoc branch week3 v… main 
+>>>>>>> main

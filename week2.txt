@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-file week2.txt thuoc branch week2 ma thoi 
-=======
-file week2.txt thuoc branch week2 v… main 
->>>>>>> main
+file week2.txt thuoc branch week2 
